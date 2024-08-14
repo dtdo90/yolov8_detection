@@ -7,4 +7,6 @@ Implementation of the yolov8 detection model.
 3. https://github.com/ultralytics/ultralytics/tree/main/ultralytics/models/yolo
 
 # Youtube video
+https://www.youtube.com/watch?v=6zQP0L-ph0M
+
 
